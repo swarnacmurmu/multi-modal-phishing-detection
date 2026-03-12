@@ -23,7 +23,7 @@ Python, PyTorch, Transformers, TensorFlow, Scikit-learn
 data/ – datasets  
 models/ – trained models  
 src/ – training and inference code  
-app/ – phishing detection API  
+app/ –phishing detection API  
 
 ## Future Work
 - Browser extension
